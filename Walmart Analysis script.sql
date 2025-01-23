@@ -1,6 +1,6 @@
 SELECT * FROM salesdatawalmart.walmart_sales_data;
 
-----------------------------------------------------------
+-------------------------------------------------------------
 /*------------------Feature Engineering----------------------
 ----time_of_day --------*/
 
@@ -29,7 +29,7 @@ SET mnth_name = MONTHNAME(STR_TO_DATE(Date, '%d-%m-%Y'));
 -----------------------------------------
 -----------------------------------------
 ---------------Generic-------------------
----How Many uniq cities does the dta have?-----
+---How Many unique cities does the data have?-----
 
 Select Distinct(City) from walmart_sales_data;
 
