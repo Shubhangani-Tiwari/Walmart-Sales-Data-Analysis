@@ -81,3 +81,6 @@ This analysis aims to uncover the different customer segments, purchase trends, 
 8. Which time of the day do customers give the most ratings per branch?
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
+    
+![Dashboard-Walmart_Sales_DA](https://github.com/user-attachments/assets/9cb9cbd8-c393-4bd4-b932-62269a1ce35e)
+
